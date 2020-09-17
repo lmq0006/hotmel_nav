@@ -1,16 +1,16 @@
 
 ## Requirements
-Windows 7 and 64 bit operating system
-Nodejs version8.0+
-Install vue-cli: npm install vue-cli@2.9.2 -g   
-Development IDE: webstrom 2018.3
-Install Vue mobile oriented components: npm install vux -save vux 
++ Windows 7 and 64 bit operating system
++ Nodejs version8.0+
++ Install vue-cli: npm install vue-cli@2.9.2 -g   
++ Development IDE: webstrom 2018.3
++ Install Vue mobile oriented components: npm install vux -save vux 
 
-Run npm stall after the project file is configured to install all components used 
++ Run npm stall after the project file is configured to install all components used 
 
 ## Test
-Test running: npm run dev
-Input the address to see the result
++ Test running: npm run dev
++ Input the address to see the result
 
 ## Vux is Inspired or Powered By:
 
