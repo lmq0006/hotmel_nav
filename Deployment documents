@@ -1,0 +1,14 @@
+## Deployment
++ Apply a EC2 service on AWS, create ssl certificate
++ Install secureCRT to login Amazon cloud server, install tomcat and mysql on it
++ Pack the project: npm run build, generate the deployment file under the directory: docs/demos/temp
++ Copy all the file under docs/demos/temp directory to the /usr/share/tomcat/webapps/Hotmel/tomcat and the website will be deployed automatically
+
+## Backend environment
++ Install developmeny IDE: IntelliJ
++ Install maven 3.6.0
+
++ Configure pom.xml to install the dependencies automatically
++ Configure the port number in the application.yml
++ Set packing to jar in pom.xml to pack into jar package
++ Put the package onto the Amazon cloud server: nohup java -jar packageName.jar
